@@ -1,1 +1,1 @@
-# program.py
+Website information viewer
