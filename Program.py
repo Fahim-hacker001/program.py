@@ -1,4 +1,4 @@
-print("\033[94m")
+print("\033[92m")
 import os
 import sys
 import urllib2
